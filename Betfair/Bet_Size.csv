@@ -1,0 +1,519 @@
+Market,Selection,Bet Type,Max Size,Min Size
+Match Odds,Spain,Back,752.53,0.0
+Match Odds,Germany,Back,1682.36,0.0
+Match Odds,Draw,Back,4459.0,0.0
+Match Odds,Spain,Lay,2646.99,0.0
+Match Odds,Germany,Lay,2612.88,0.0
+Match Odds,Draw,Lay,67939.04,0.0
+Over/Under 0.5 Goals,Under 0.5 Goals,Back,292.8,0.0
+Over/Under 0.5 Goals,Over 0.5 Goals,Back,16.93,0.0
+Over/Under 0.5 Goals,Under 0.5 Goals,Lay,2677.6,0.0
+Over/Under 0.5 Goals,Over 0.5 Goals,Lay,1765.59,0.0
+Asian Handicap,Spain -4.0,Back,42.83,0.0
+Asian Handicap,Germany +4.0,Back,1.01,0.0
+Asian Handicap,Spain -3.5 & -4.0,Back,42.83,0.0
+Asian Handicap,Germany +3.5 & +4.0,Back,1.01,0.0
+Asian Handicap,Spain -3.5,Back,42.83,0.0
+Asian Handicap,Germany +3.5,Back,4857.62,0.0
+Asian Handicap,Spain -3.0 & -3.5,Back,44.07,0.0
+Asian Handicap,Germany +3.0 & +3.5,Back,4886.93,0.0
+Asian Handicap,Spain -3.0,Back,26.23,0.0
+Asian Handicap,Germany +3.0,Back,4917.79,0.0
+Asian Handicap,Spain -2.5 & -3.0,Back,39.76,0.0
+Asian Handicap,Germany +2.5 & +3.0,Back,9831.89,0.0
+Asian Handicap,Spain -2.5,Back,34.63,0.0
+Asian Handicap,Germany +2.5,Back,7500.73,0.0
+Asian Handicap,Spain -2.0 & -2.5,Back,33.68,0.0
+Asian Handicap,Germany +2.0 & +2.5,Back,8452.88,0.0
+Asian Handicap,Spain -2.0,Back,17.75,0.0
+Asian Handicap,Germany +2.0,Back,8834.88,0.0
+Asian Handicap,Spain -1.5 & -2.0,Back,16.43,0.0
+Asian Handicap,Germany +1.5 & +2.0,Back,9178.76,0.0
+Asian Handicap,Spain -1.5,Back,138.53,0.0
+Asian Handicap,Germany +1.5,Back,3113.95,0.0
+Asian Handicap,Spain -1.0 & -1.5,Back,168.41,0.0
+Asian Handicap,Germany +1.0 & +1.5,Back,10.17,0.0
+Asian Handicap,Spain -1.0,Back,214.71,0.0
+Asian Handicap,Germany +1.0,Back,529.9,0.0
+Asian Handicap,Spain -0.5 & -1.0,Back,732.24,0.0
+Asian Handicap,Germany +0.5 & +1.0,Back,7369.37,0.0
+Asian Handicap,Spain -0.5,Back,752.53,0.0
+Asian Handicap,Germany +0.5,Back,2666.08,0.0
+Asian Handicap,Spain 0 & -0.5,Back,1122.06,0.0
+Asian Handicap,Germany 0 & +0.5,Back,5265.27,0.0
+Asian Handicap,Spain 0,Back,2185.02,0.0
+Asian Handicap,Germany 0,Back,10.0,0.0
+Asian Handicap,Spain 0 & +0.5,Back,2978.15,0.0
+Asian Handicap,Germany 0 & -0.5,Back,20.0,0.0
+Asian Handicap,Spain +0.5,Back,10852.82,0.0
+Asian Handicap,Germany -0.5,Back,1682.36,0.0
+Asian Handicap,Spain +0.5 & +1.0,Back,1226.69,0.0
+Asian Handicap,Germany -0.5 & -1.0,Back,511.94,0.0
+Asian Handicap,Spain +1.0,Back,3738.86,0.0
+Asian Handicap,Germany -1.0,Back,136.12,0.0
+Asian Handicap,Spain +1.0 & +1.5,Back,4046.49,0.0
+Asian Handicap,Germany -1.0 & -1.5,Back,107.43,0.0
+Asian Handicap,Spain +1.5,Back,3175.74,0.0
+Asian Handicap,Germany -1.5,Back,84.94,0.0
+Asian Handicap,Spain +1.5 & +2.0,Back,1577.78,0.0
+Asian Handicap,Germany -1.5 & -2.0,Back,12.01,0.0
+Asian Handicap,Spain +2.0,Back,4816.33,0.0
+Asian Handicap,Germany -2.0,Back,37.39,0.0
+Asian Handicap,Spain +2.0 & +2.5,Back,3569.79,0.0
+Asian Handicap,Germany -2.0 & -2.5,Back,34.33,0.0
+Asian Handicap,Spain +2.5,Back,13901.42,0.0
+Asian Handicap,Germany -2.5,Back,31.75,0.0
+Asian Handicap,Spain +2.5 & +3.0,Back,7069.83,0.0
+Asian Handicap,Germany -2.5 & -3.0,Back,36.42,0.0
+Asian Handicap,Spain +3.0,Back,5199.05,0.0
+Asian Handicap,Germany -3.0,Back,25.97,0.0
+Asian Handicap,Spain +3.0 & +3.5,Back,5169.95,0.0
+Asian Handicap,Germany -3.0 & -3.5,Back,41.48,0.0
+Asian Handicap,Spain +3.5,Back,5142.23,0.0
+Asian Handicap,Germany -3.5,Back,40.41,0.0
+Asian Handicap,Spain +3.5 & +4.0,Back,1.01,0.0
+Asian Handicap,Germany -3.5 & -4.0,Back,40.41,0.0
+Asian Handicap,Spain +4.0,Back,1.01,0.0
+Asian Handicap,Germany -4.0,Back,40.41,0.0
+Asian Handicap,Spain -4.0,Lay,1008.99,0.0
+Asian Handicap,Germany +4.0,Lay,9.96,0.0
+Asian Handicap,Spain -3.5 & -4.0,Lay,9696.96,0.0
+Asian Handicap,Germany +3.5 & +4.0,Lay,9.96,0.0
+Asian Handicap,Spain -3.5,Lay,4848.48,0.0
+Asian Handicap,Germany +3.5,Lay,9.96,0.0
+Asian Handicap,Spain -3.0 & -3.5,Lay,4876.3,0.0
+Asian Handicap,Germany +3.0 & +3.5,Lay,10.05,0.0
+Asian Handicap,Spain -3.0,Lay,4906.57,0.0
+Asian Handicap,Germany +3.0,Lay,10.14,0.0
+Asian Handicap,Spain -2.5 & -3.0,Lay,927.77,0.0
+Asian Handicap,Germany +2.5 & +3.0,Lay,40.62,0.0
+Asian Handicap,Spain -2.5,Lay,469.41,0.0
+Asian Handicap,Germany +2.5,Lay,1.48,0.0
+Asian Handicap,Spain -2.0 & -2.5,Lay,444.71,0.0
+Asian Handicap,Germany +2.0 & +2.5,Lay,76.04,0.0
+Asian Handicap,Spain -2.0,Lay,769.07,0.0
+Asian Handicap,Germany +2.0,Lay,78.79,0.0
+Asian Handicap,Spain -1.5 & -2.0,Lay,300.84,0.0
+Asian Handicap,Germany +1.5 & +2.0,Lay,23.01,0.0
+Asian Handicap,Spain -1.5,Lay,150.67,0.0
+Asian Handicap,Germany +1.5,Lay,292.43,0.0
+Asian Handicap,Spain -1.0 & -1.5,Lay,285.39,0.0
+Asian Handicap,Germany +1.0 & +1.5,Lay,202.3,0.0
+Asian Handicap,Spain -1.0,Lay,284.62,0.0
+Asian Handicap,Germany +1.0,Lay,214.71,0.0
+Asian Handicap,Spain -0.5 & -1.0,Lay,1060.11,0.0
+Asian Handicap,Germany +0.5 & +1.0,Lay,732.24,0.0
+Asian Handicap,Spain -0.5,Lay,2646.99,0.0
+Asian Handicap,Germany +0.5,Lay,753.02,0.0
+Asian Handicap,Spain 0 & -0.5,Lay,3031.29,0.0
+Asian Handicap,Germany 0 & +0.5,Lay,1805.0,0.0
+Asian Handicap,Spain 0,Lay,4103.71,0.0
+Asian Handicap,Germany 0,Lay,2184.05,0.0
+Asian Handicap,Spain 0 & +0.5,Lay,20.0,0.0
+Asian Handicap,Germany 0 & -0.5,Lay,2977.68,0.0
+Asian Handicap,Spain +0.5,Lay,4494.91,0.0
+Asian Handicap,Germany -0.5,Lay,2612.88,0.0
+Asian Handicap,Spain +0.5 & +1.0,Lay,2232.95,0.0
+Asian Handicap,Germany -0.5 & -1.0,Lay,1226.37,0.0
+Asian Handicap,Spain +1.0,Lay,544.83,0.0
+Asian Handicap,Germany -1.0,Lay,613.21,0.0
+Asian Handicap,Spain +1.0 & +1.5,Lay,448.95,0.0
+Asian Handicap,Germany -1.0 & -1.5,Lay,560.97,0.0
+Asian Handicap,Spain +1.5,Lay,89.32,0.0
+Asian Handicap,Germany -1.5,Lay,526.87,0.0
+Asian Handicap,Spain +1.5 & +2.0,Lay,18.25,0.0
+Asian Handicap,Germany -1.5 & -2.0,Lay,902.01,0.0
+Asian Handicap,Spain +2.0,Lay,78.13,0.0
+Asian Handicap,Germany -2.0,Lay,1160.46,0.0
+Asian Handicap,Spain +2.0 & +2.5,Lay,65.43,0.0
+Asian Handicap,Germany -2.0 & -2.5,Lay,1355.32,0.0
+Asian Handicap,Spain +2.5,Lay,62.92,0.0
+Asian Handicap,Germany -2.5,Lay,714.34,0.0
+Asian Handicap,Spain +2.5 & +3.0,Lay,40.45,0.0
+Asian Handicap,Germany -2.5 & -3.0,Lay,1413.76,0.0
+Asian Handicap,Spain +3.0,Lay,10.12,0.0
+Asian Handicap,Germany -3.0,Lay,5193.22,0.0
+Asian Handicap,Spain +3.0 & +3.5,Lay,10.03,0.0
+Asian Handicap,Germany -3.0 & -3.5,Lay,5166.0,0.0
+Asian Handicap,Spain +3.5,Lay,9.95,0.0
+Asian Handicap,Germany -3.5,Lay,5138.98,0.0
+Asian Handicap,Spain +3.5 & +4.0,Lay,9.95,0.0
+Asian Handicap,Germany -3.5 & -4.0,Lay,10277.96,0.0
+Asian Handicap,Spain +4.0,Lay,9.95,0.0
+Asian Handicap,Germany -4.0,Lay,1008.99,0.0
+Over/Under 2.5 Goals,Under 2.5 Goals,Back,17.03,0.0
+Over/Under 2.5 Goals,Over 2.5 Goals,Back,398.84,0.0
+Over/Under 2.5 Goals,Under 2.5 Goals,Lay,378.2,0.0
+Over/Under 2.5 Goals,Over 2.5 Goals,Lay,206.85,0.0
+Correct Score,'0-0',Back,1663.44,0.0
+Correct Score,'0-1',Back,162.5,0.0
+Correct Score,'0-2',Back,59.3,0.0
+Correct Score,'0-3',Back,13.53,0.0
+Correct Score,'1-0',Back,122.17,0.0
+Correct Score,'1-1',Back,2223.99,0.0
+Correct Score,'1-2',Back,855.8,0.0
+Correct Score,'1-3',Back,23.57,0.0
+Correct Score,'2-0',Back,78.41,0.0
+Correct Score,'2-1',Back,220.34,0.0
+Correct Score,'2-2',Back,100.94,0.0
+Correct Score,'2-3',Back,36.22,0.0
+Correct Score,'3-0',Back,17.13,0.0
+Correct Score,'3-1',Back,37.38,0.0
+Correct Score,'3-2',Back,36.92,0.0
+Correct Score,'3-3',Back,15.66,0.0
+Correct Score,Any Other Home Win,Back,22.46,0.0
+Correct Score,Any Other Away Win,Back,19.57,0.0
+Correct Score,Any Other Draw,Back,11.81,0.0
+Correct Score,'0-0',Lay,5997.5,0.0
+Correct Score,'0-1',Lay,6991.22,0.0
+Correct Score,'0-2',Lay,872.9,0.0
+Correct Score,'0-3',Lay,1600.03,0.0
+Correct Score,'1-0',Lay,443.6,0.0
+Correct Score,'1-1',Lay,10462.56,0.0
+Correct Score,'1-2',Lay,12568.44,0.0
+Correct Score,'1-3',Lay,4268.7,0.0
+Correct Score,'2-0',Lay,890.5,0.0
+Correct Score,'2-1',Lay,13157.5,0.0
+Correct Score,'2-2',Lay,5449.95,0.0
+Correct Score,'2-3',Lay,5145.3,0.0
+Correct Score,'3-0',Lay,1539.14,0.0
+Correct Score,'3-1',Lay,1294.11,0.0
+Correct Score,'3-2',Lay,5497.12,0.0
+Correct Score,'3-3',Lay,10106.88,0.0
+Correct Score,Any Other Home Win,Lay,1678.05,0.0
+Correct Score,Any Other Away Win,Lay,5731.67,0.0
+Correct Score,Any Other Draw,Lay,61084.67,0.0
+Goal Lines,Under 0.5,Back,292.8,0.0
+Goal Lines,Over 0.5,Back,16.93,0.0
+Goal Lines,Under 0.5 & 1.0,Back,28.18,0.0
+Goal Lines,Over 0.5 & 1.0,Back,17.67,0.0
+Goal Lines,Under 1.0,Back,28.18,0.0
+Goal Lines,Over 1.0,Back,2931.83,0.0
+Goal Lines,Under 1.0 & 1.5,Back,28.18,0.0
+Goal Lines,Over 1.0 & 1.5,Back,2450.05,0.0
+Goal Lines,Under 1.5,Back,28.18,0.0
+Goal Lines,Over 1.5,Back,1331.58,0.0
+Goal Lines,Under 1.5 & 2.0,Back,17.03,0.0
+Goal Lines,Over 1.5 & 2.0,Back,1494.24,0.0
+Goal Lines,Under 2.0,Back,17.03,0.0
+Goal Lines,Over 2.0,Back,1842.22,0.0
+Goal Lines,Under 2.0 & 2.5,Back,17.03,0.0
+Goal Lines,Over 2.0 & 2.5,Back,625.81,0.0
+Goal Lines,Under 2.5,Back,17.03,0.0
+Goal Lines,Over 2.5,Back,398.84,0.0
+Goal Lines,Under 2.5 & 3.0,Back,51.57,0.0
+Goal Lines,Over 2.5 & 3.0,Back,49.34,0.0
+Goal Lines,Under 3.0,Back,51.57,0.0
+Goal Lines,Over 3.0,Back,17.6,0.0
+Goal Lines,Under 3.0 & 3.5,Back,51.57,0.0
+Goal Lines,Over 3.0 & 3.5,Back,12.18,0.0
+Goal Lines,Under 3.5,Back,51.57,0.0
+Goal Lines,Over 3.5,Back,10.98,0.0
+Goal Lines,Under 3.5 & 4.0,Back,1011.85,0.0
+Goal Lines,Over 3.5 & 4.0,Back,12.18,0.0
+Goal Lines,Under 4.0,Back,1011.85,0.0
+Goal Lines,Over 4.0,Back,18.38,0.0
+Goal Lines,Under 4.0 & 4.5,Back,1011.85,0.0
+Goal Lines,Over 4.0 & 4.5,Back,36.75,0.0
+Goal Lines,Under 4.5,Back,995.57,0.0
+Goal Lines,Over 4.5,Back,133.22,0.0
+Goal Lines,Under 4.5 & 5.0,Back,160.62,0.0
+Goal Lines,Over 4.5 & 5.0,Back,38.07,0.0
+Goal Lines,Under 5.0,Back,160.62,0.0
+Goal Lines,Over 5.0,Back,11.16,0.0
+Goal Lines,Under 5.0 & 5.5,Back,160.62,0.0
+Goal Lines,Over 5.0 & 5.5,Back,10.44,0.0
+Goal Lines,Under 5.5,Back,160.62,0.0
+Goal Lines,Over 5.5,Back,13.46,0.0
+Goal Lines,Under 5.5 & 6.0,Back,54289.39,0.0
+Goal Lines,Over 5.5 & 6.0,Back,13.06,0.0
+Goal Lines,Under 6.0,Back,54289.39,0.0
+Goal Lines,Over 6.0,Back,41.8,0.0
+Goal Lines,Under 6.0 & 6.5,Back,54289.39,0.0
+Goal Lines,Over 6.0 & 6.5,Back,50.41,0.0
+Goal Lines,Under 6.5,Back,54289.39,0.0
+Goal Lines,Over 6.5,Back,49.14,0.0
+Goal Lines,Under 6.5 & 7.0,Back,1.01,0.0
+Goal Lines,Over 6.5 & 7.0,Back,16.74,0.0
+Goal Lines,Under 7.0,Back,1.01,0.0
+Goal Lines,Over 7.0,Back,13.94,0.0
+Goal Lines,Under 7.0 & 7.5,Back,1.01,0.0
+Goal Lines,Over 7.0 & 7.5,Back,13.81,0.0
+Goal Lines,Under 7.5,Back,1.01,0.0
+Goal Lines,Over 7.5,Back,13.68,0.0
+Goal Lines,Under 7.5 & 8.0,Back,1.01,0.0
+Goal Lines,Over 7.5 & 8.0,Back,13.85,0.0
+Goal Lines,Under 8.0,Back,1.01,0.0
+Goal Lines,Over 8.0,Back,7.32,0.0
+Goal Lines,Under 8.0 & 8.5,Back,1.01,0.0
+Goal Lines,Over 8.0 & 8.5,Back,7.32,0.0
+Goal Lines,Under 8.5,Back,1.01,0.0
+Goal Lines,Over 8.5,Back,28.63,0.0
+Goal Lines,Under 0.5,Lay,2677.6,0.0
+Goal Lines,Over 0.5,Lay,1765.59,0.0
+Goal Lines,Under 0.5 & 1.0,Lay,2784.83,0.0
+Goal Lines,Over 0.5 & 1.0,Lay,6.39,0.0
+Goal Lines,Under 1.0,Lay,2932.84,0.0
+Goal Lines,Over 1.0,Lay,6.39,0.0
+Goal Lines,Under 1.0 & 1.5,Lay,2450.36,0.0
+Goal Lines,Over 1.0 & 1.5,Lay,6.39,0.0
+Goal Lines,Under 1.5,Lay,1332.75,0.0
+Goal Lines,Over 1.5,Lay,6.39,0.0
+Goal Lines,Under 1.5 & 2.0,Lay,1495.55,0.0
+Goal Lines,Over 1.5 & 2.0,Lay,206.85,0.0
+Goal Lines,Under 2.0,Lay,1449.1,0.0
+Goal Lines,Over 2.0,Lay,206.85,0.0
+Goal Lines,Under 2.0 & 2.5,Lay,626.67,0.0
+Goal Lines,Over 2.0 & 2.5,Lay,206.85,0.0
+Goal Lines,Under 2.5,Lay,378.2,0.0
+Goal Lines,Over 2.5,Lay,206.85,0.0
+Goal Lines,Under 2.5 & 3.0,Lay,107.37,0.0
+Goal Lines,Over 2.5 & 3.0,Lay,51.59,0.0
+Goal Lines,Under 3.0,Lay,17.72,0.0
+Goal Lines,Over 3.0,Lay,51.59,0.0
+Goal Lines,Under 3.0 & 3.5,Lay,6.25,0.0
+Goal Lines,Over 3.0 & 3.5,Lay,51.59,0.0
+Goal Lines,Under 3.5,Lay,11.1,0.0
+Goal Lines,Over 3.5,Lay,51.59,0.0
+Goal Lines,Under 3.5 & 4.0,Lay,6.29,0.0
+Goal Lines,Over 3.5 & 4.0,Lay,1011.93,0.0
+Goal Lines,Under 4.0,Lay,184.02,0.0
+Goal Lines,Over 4.0,Lay,1011.93,0.0
+Goal Lines,Under 4.0 & 4.5,Lay,181.43,0.0
+Goal Lines,Over 4.0 & 4.5,Lay,1011.93,0.0
+Goal Lines,Under 4.5,Lay,133.2,0.0
+Goal Lines,Over 4.5,Lay,995.69,0.0
+Goal Lines,Under 4.5 & 5.0,Lay,38.4,0.0
+Goal Lines,Over 4.5 & 5.0,Lay,252.51,0.0
+Goal Lines,Under 5.0,Lay,11.51,0.0
+Goal Lines,Over 5.0,Lay,252.51,0.0
+Goal Lines,Under 5.0 & 5.5,Lay,15.11,0.0
+Goal Lines,Over 5.0 & 5.5,Lay,252.51,0.0
+Goal Lines,Under 5.5,Lay,157.22,0.0
+Goal Lines,Over 5.5,Lay,252.51,0.0
+Goal Lines,Under 5.5 & 6.0,Lay,117.59,0.0
+Goal Lines,Over 5.5 & 6.0,Lay,855.0,0.0
+Goal Lines,Under 6.0,Lay,3.75,0.0
+Goal Lines,Over 6.0,Lay,855.0,0.0
+Goal Lines,Under 6.0 & 6.5,Lay,3.71,0.0
+Goal Lines,Over 6.0 & 6.5,Lay,855.0,0.0
+Goal Lines,Under 6.5,Lay,49.41,0.0
+Goal Lines,Over 6.5,Lay,855.0,0.0
+Goal Lines,Under 6.5 & 7.0,Lay,156.07,0.0
+Goal Lines,Over 6.5 & 7.0,Lay,3179.0,0.0
+Goal Lines,Under 7.0,Lay,17.04,0.0
+Goal Lines,Over 7.0,Lay,3179.0,0.0
+Goal Lines,Under 7.0 & 7.5,Lay,16.97,0.0
+Goal Lines,Over 7.0 & 7.5,Lay,3179.0,0.0
+Goal Lines,Under 7.5,Lay,52.94,0.0
+Goal Lines,Over 7.5,Lay,3179.0,0.0
+Goal Lines,Under 7.5 & 8.0,Lay,33.6,0.0
+Goal Lines,Over 7.5 & 8.0,Lay,58381.56,0.0
+Goal Lines,Under 8.0,Lay,19.74,0.0
+Goal Lines,Over 8.0,Lay,58381.56,0.0
+Goal Lines,Under 8.0 & 8.5,Lay,19.74,0.0
+Goal Lines,Over 8.0 & 8.5,Lay,58381.56,0.0
+Goal Lines,Under 8.5,Lay,86.09,0.0
+Goal Lines,Over 8.5,Lay,58381.56,0.0
+Over/Under 4.5 Goals,Under 4.5 Goals,Back,995.57,0.0
+Over/Under 4.5 Goals,Over 4.5 Goals,Back,153.44,0.0
+Over/Under 4.5 Goals,Under 4.5 Goals,Lay,133.2,0.0
+Over/Under 4.5 Goals,Over 4.5 Goals,Lay,997.15,0.0
+Over/Under 1.5 Goals,Under 1.5 Goals,Back,28.18,0.0
+Over/Under 1.5 Goals,Over 1.5 Goals,Back,1331.58,0.0
+Over/Under 1.5 Goals,Under 1.5 Goals,Lay,1334.49,0.0
+Over/Under 1.5 Goals,Over 1.5 Goals,Lay,6.39,0.0
+Double Chance,Home or Draw,Back,10852.82,0.0
+Double Chance,Draw or Away,Back,2666.08,0.0
+Double Chance,Home or Away,Back,70605.93,0.0
+Double Chance,Home or Draw,Lay,4494.91,0.0
+Double Chance,Draw or Away,Lay,753.02,0.0
+Double Chance,Home or Away,Lay,5744.53,0.0
+Draw no Bet,Spain,Back,2185.02,0.0
+Draw no Bet,Germany,Back,10.0,0.0
+Draw no Bet,Spain,Lay,4103.71,0.0
+Draw no Bet,Germany,Lay,3940.81,0.0
+Both teams to Score?,Yes,Back,1278.19,0.0
+Both teams to Score?,No,Back,186.88,0.0
+Both teams to Score?,Yes,Lay,187.2,0.0
+Both teams to Score?,No,Lay,1610.64,0.0
+Match Odds and Over/Under 2.5 Goals,Spain/Under 2.5 Goals,Back,128.26,0.0
+Match Odds and Over/Under 2.5 Goals,Spain/Over 2.5 Goals,Back,131.51,0.0
+Match Odds and Over/Under 2.5 Goals,Germany/Under 2.5 Goals,Back,150.95,0.0
+Match Odds and Over/Under 2.5 Goals,Germany/Over 2.5 Goals,Back,125.39,0.0
+Match Odds and Over/Under 2.5 Goals,Draw/Under 2.5 Goals,Back,245.3,0.0
+Match Odds and Over/Under 2.5 Goals,Draw/Under 2.5 Goals,Back,70.51,0.0
+Match Odds and Over/Under 2.5 Goals,Spain/Under 2.5 Goals,Lay,750.35,0.0
+Match Odds and Over/Under 2.5 Goals,Spain/Over 2.5 Goals,Lay,311.52,0.0
+Match Odds and Over/Under 2.5 Goals,Germany/Under 2.5 Goals,Lay,872.76,0.0
+Match Odds and Over/Under 2.5 Goals,Germany/Over 2.5 Goals,Lay,64.3,0.0
+Match Odds and Over/Under 2.5 Goals,Draw/Under 2.5 Goals,Lay,1271.55,0.0
+Match Odds and Over/Under 2.5 Goals,Draw/Under 2.5 Goals,Lay,2010.68,0.0
+Over/Under 3.5 Goals,Under 3.5 Goals,Back,51.57,0.0
+Over/Under 3.5 Goals,Over 3.5 Goals,Back,20.33,0.0
+Over/Under 3.5 Goals,Under 3.5 Goals,Lay,11.1,0.0
+Over/Under 3.5 Goals,Over 3.5 Goals,Lay,58.32,0.0
+Over/Under 5.5 Goals,Under 5.5 Goals,Back,160.62,0.0
+Over/Under 5.5 Goals,Over 5.5 Goals,Back,13.46,0.0
+Over/Under 5.5 Goals,Under 5.5 Goals,Lay,157.22,0.0
+Over/Under 5.5 Goals,Over 5.5 Goals,Lay,1447.32,0.0
+Match Odds and Both teams to Score,Spain/Yes,Back,90.84,0.0
+Match Odds and Both teams to Score,Germany/Yes,Back,162.5,0.0
+Match Odds and Both teams to Score,Draw/Yes,Back,351.51,0.0
+Match Odds and Both teams to Score,Spain/No,Back,21.17,0.0
+Match Odds and Both teams to Score,Germany/No,Back,292.62,0.0
+Match Odds and Both teams to Score,Draw/No,Back,52.62,0.0
+Match Odds and Both teams to Score,Spain/Yes,Lay,1308.31,0.0
+Match Odds and Both teams to Score,Germany/Yes,Lay,1151.47,0.0
+Match Odds and Both teams to Score,Draw/Yes,Lay,1919.11,0.0
+Match Odds and Both teams to Score,Spain/No,Lay,964.4,0.0
+Match Odds and Both teams to Score,Germany/No,Lay,62.93,0.0
+Match Odds and Both teams to Score,Draw/No,Lay,1385.67,0.0
+Germany Over/Under 0.5 Goals,Spain Under 0.5 Goals,Back,20.49,0.0
+Germany Over/Under 0.5 Goals,Spain Over 0.5 Goals,Back,1336.14,0.0
+Germany Over/Under 0.5 Goals,Spain Under 0.5 Goals,Lay,1359.93,0.0
+Germany Over/Under 0.5 Goals,Spain Over 0.5 Goals,Lay,20.49,0.0
+Total Goals Odd/Even,Odd,Back,59.57,0.0
+Total Goals Odd/Even,Even,Back,22.53,0.0
+Total Goals Odd/Even,Odd,Lay,41.88,0.0
+Total Goals Odd/Even,Even,Lay,59.72,0.0
+Over/Under 7.5 Goals,Under 7.5 Goals,Back,1.01,0.0
+Over/Under 7.5 Goals,Over 7.5 Goals,Back,13.68,0.0
+Over/Under 7.5 Goals,Under 7.5 Goals,Lay,36.04,0.0
+Over/Under 7.5 Goals,Over 7.5 Goals,Lay,3179.0,0.0
+Germany Over/Under 1.5 Goals,Spain Under 1.5 Goals,Back,16.79,0.0
+Germany Over/Under 1.5 Goals,Spain Over 1.5 Goals,Back,707.54,0.0
+Germany Over/Under 1.5 Goals,Spain Under 1.5 Goals,Lay,19.82,0.0
+Germany Over/Under 1.5 Goals,Spain Over 1.5 Goals,Lay,403.77,0.0
+Spain +1,Spain +1,Back,10852.82,0.0
+Spain +1,Germany -1,Back,84.94,0.0
+Spain +1,Draw,Back,125.12,0.0
+Spain +1,Spain +1,Lay,4494.91,0.0
+Spain +1,Germany -1,Lay,1424.02,0.0
+Spain +1,Draw,Lay,472.96,0.0
+Germany Win to Nil,Yes,Back,104.54,0.0
+Germany Win to Nil,No,Back,1594.23,0.0
+Germany Win to Nil,Yes,Lay,723.61,0.0
+Germany Win to Nil,No,Lay,107.24,0.0
+Over/Under 6.5 Goals,Under 6.5 Goals,Back,54289.39,0.0
+Over/Under 6.5 Goals,Over 6.5 Goals,Back,54.38,0.0
+Over/Under 6.5 Goals,Under 6.5 Goals,Lay,49.41,0.0
+Over/Under 6.5 Goals,Over 6.5 Goals,Lay,1183.42,0.0
+Spain Over/Under 1.5 Goals,Spain Under 1.5 Goals,Back,3189.73,0.0
+Spain Over/Under 1.5 Goals,Spain Over 1.5 Goals,Back,19.71,0.0
+Spain Over/Under 1.5 Goals,Spain Under 1.5 Goals,Lay,9.45,0.0
+Spain Over/Under 1.5 Goals,Spain Over 1.5 Goals,Lay,474.8,0.0
+Germany +1,Germany + 1,Back,2666.08,0.0
+Germany +1,Spain -1,Back,138.53,0.0
+Germany +1,Draw,Back,108.29,0.0
+Germany +1,Germany + 1,Lay,753.02,0.0
+Germany +1,Spain -1,Lay,895.17,0.0
+Germany +1,Draw,Lay,833.38,0.0
+Over/Under 8.5 Goals,Under 8.5 Goals,Back,1.01,0.0
+Over/Under 8.5 Goals,Over 8.5 Goals,Back,28.63,0.0
+Over/Under 8.5 Goals,Under 8.5 Goals,Lay,43.15,0.0
+Over/Under 8.5 Goals,Over 8.5 Goals,Lay,58381.56,0.0
+Spain Over/Under 0.5 Goals,Spain Under 0.5 Goals,Back,200.39,0.0
+Spain Over/Under 0.5 Goals,Spain Over 0.5 Goals,Back,2654.49,0.0
+Spain Over/Under 0.5 Goals,Spain Under 0.5 Goals,Lay,3130.34,0.0
+Spain Over/Under 0.5 Goals,Spain Over 0.5 Goals,Lay,102.2,0.0
+Match Odds and Over/Under 3.5 Goals,Spain/Under 3.5 Goals,Back,104.68,0.0
+Match Odds and Over/Under 3.5 Goals,Spain/Over 2.5 Goals,Back,55.56,0.0
+Match Odds and Over/Under 3.5 Goals,Germany/Under 3.5 Goals,Back,437.97,0.0
+Match Odds and Over/Under 3.5 Goals,Germany/Over 3.5 Goals,Back,51.88,0.0
+Match Odds and Over/Under 3.5 Goals,Draw/Under 3.5 Goals,Back,245.3,0.0
+Match Odds and Over/Under 3.5 Goals,Draw/Under 3.5 Goals,Back,147.51,0.0
+Match Odds and Over/Under 3.5 Goals,Spain/Under 3.5 Goals,Lay,544.95,0.0
+Match Odds and Over/Under 3.5 Goals,Spain/Over 2.5 Goals,Lay,1469.5,0.0
+Match Odds and Over/Under 3.5 Goals,Germany/Under 3.5 Goals,Lay,746.57,0.0
+Match Odds and Over/Under 3.5 Goals,Germany/Over 3.5 Goals,Lay,1234.48,0.0
+Match Odds and Over/Under 3.5 Goals,Draw/Under 3.5 Goals,Lay,1271.55,0.0
+Match Odds and Over/Under 3.5 Goals,Draw/Under 3.5 Goals,Lay,1660.68,0.0
+Spain Win to Nil,Yes,Back,112.04,0.0
+Spain Win to Nil,No,Back,1539.41,0.0
+Spain Win to Nil,Yes,Lay,719.06,0.0
+Spain Win to Nil,No,Lay,114.28,0.0
+Germany +3,Germany + 3,Back,7501.03,0.0
+Germany +3,Spain -3,Back,42.83,0.0
+Germany +3,Draw,Back,21.74,0.0
+Germany +3,Germany + 3,Lay,1.48,0.0
+Germany +3,Spain -3,Lay,4848.48,0.0
+Germany +3,Draw,Lay,491.26,0.0
+Correct Score 2 Home,'4-0',Back,5.62,0.0
+Correct Score 2 Home,'4-1',Back,7.25,0.0
+Correct Score 2 Home,'4-2',Back,4.59,0.0
+Correct Score 2 Home,'5-0',Back,1.47,0.0
+Correct Score 2 Home,'5-1',Back,1.79,0.0
+Correct Score 2 Home,'5-2',Back,1.14,0.0
+Correct Score 2 Home,'6-0',Back,1.01,0.0
+Correct Score 2 Home,'6-1',Back,1.01,0.0
+Correct Score 2 Home,'6-2',Back,1.01,0.0
+Correct Score 2 Home,'7-0',Back,5.74,0.0
+Correct Score 2 Home,'7-1',Back,5.74,0.0
+Correct Score 2 Home,'7-2',Back,5.74,0.0
+Correct Score 2 Home,Any unquoted,Back,10547.24,0.0
+Correct Score 2 Home,'4-0',Lay,5654.04,0.0
+Correct Score 2 Home,'4-1',Lay,4781.42,0.0
+Correct Score 2 Home,'4-2',Lay,5922.24,0.0
+Correct Score 2 Home,'5-0',Lay,4909.92,0.0
+Correct Score 2 Home,'5-1',Lay,4774.42,0.0
+Correct Score 2 Home,'5-2',Lay,5554.56,0.0
+Correct Score 2 Home,'6-0',Lay,1008.99,0.0
+Correct Score 2 Home,'6-1',Lay,1008.99,0.0
+Correct Score 2 Home,'6-2',Lay,1008.99,0.0
+Correct Score 2 Home,'7-0',Lay,1008.99,0.0
+Correct Score 2 Home,'7-1',Lay,1008.99,0.0
+Correct Score 2 Home,'7-2',Lay,1008.99,0.0
+Correct Score 2 Home,Any unquoted,Lay,25.0,0.0
+Correct Score 2 Away,'0-4',Back,5.32,0.0
+Correct Score 2 Away,'0-5',Back,6.76,0.0
+Correct Score 2 Away,'0-6',Back,4.59,0.0
+Correct Score 2 Away,'0-7',Back,1.32,0.0
+Correct Score 2 Away,'1-4',Back,1.67,0.0
+Correct Score 2 Away,'1-5',Back,1.04,0.0
+Correct Score 2 Away,'1-6',Back,1.01,0.0
+Correct Score 2 Away,'1-7',Back,1.01,0.0
+Correct Score 2 Away,'2-4',Back,1.01,0.0
+Correct Score 2 Away,'2-5',Back,5.72,0.0
+Correct Score 2 Away,'2-6',Back,5.72,0.0
+Correct Score 2 Away,'2-7',Back,5.72,0.0
+Correct Score 2 Away,Any unquoted,Back,9117.74,0.0
+Correct Score 2 Away,'0-4',Lay,5085.21,0.0
+Correct Score 2 Away,'0-5',Lay,4947.15,0.0
+Correct Score 2 Away,'0-6',Lay,6061.0,0.0
+Correct Score 2 Away,'0-7',Lay,4818.06,0.0
+Correct Score 2 Away,'1-4',Lay,4883.79,0.0
+Correct Score 2 Away,'1-5',Lay,4765.01,0.0
+Correct Score 2 Away,'1-6',Lay,1008.99,0.0
+Correct Score 2 Away,'1-7',Lay,1008.99,0.0
+Correct Score 2 Away,'2-4',Lay,1008.99,0.0
+Correct Score 2 Away,'2-5',Lay,1008.99,0.0
+Correct Score 2 Away,'2-6',Lay,1008.99,0.0
+Correct Score 2 Away,'2-7',Lay,1008.99,0.0
+Correct Score 2 Away,Any unquoted,Lay,25.0,0.0
+Spain +2,Spain +2,Back,3175.74,0.0
+Spain +2,Germany -2,Back,31.78,0.0
+Spain +2,Draw,Back,56.58,0.0
+Spain +2,Spain +2,Lay,89.32,0.0
+Spain +2,Germany -2,Lay,3577.56,0.0
+Spain +2,Draw,Lay,551.36,0.0
+Spain +3,Spain +3,Back,13901.09,0.0
+Spain +3,Germany -3,Back,40.41,0.0
+Spain +3,Draw,Back,20.0,0.0
+Spain +3,Spain +3,Lay,62.92,0.0
+Spain +3,Germany -3,Lay,5138.98,0.0
+Spain +3,Draw,Lay,491.66,0.0
+Germany Over/Under 2.5 Goals,Spain Under 2.5 Goals,Back,1393.96,0.0
+Germany Over/Under 2.5 Goals,Spain Over 2.5 Goals,Back,40.07,0.0
+Germany Over/Under 2.5 Goals,Spain Under 2.5 Goals,Lay,41.92,0.0
+Germany Over/Under 2.5 Goals,Spain Over 2.5 Goals,Lay,1395.29,0.0
+Germany +2,Germany + 2,Back,3113.95,0.0
+Germany +2,Spain -2,Back,34.66,0.0
+Germany +2,Draw,Back,59.31,0.0
+Germany +2,Germany + 2,Lay,292.43,0.0
+Germany +2,Spain -2,Lay,2340.23,0.0
+Germany +2,Draw,Lay,537.2,0.0
+Spain Over/Under 2.5 Goals,Spain Under 2.5 Goals,Back,2462.77,0.0
+Spain Over/Under 2.5 Goals,Spain Over 2.5 Goals,Back,42.88,0.0
+Spain Over/Under 2.5 Goals,Spain Under 2.5 Goals,Lay,44.48,0.0
+Spain Over/Under 2.5 Goals,Spain Over 2.5 Goals,Lay,2470.78,0.0
