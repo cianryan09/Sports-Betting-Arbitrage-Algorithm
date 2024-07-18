@@ -10,12 +10,12 @@ import json
 import requests
 
 # Change this certs path to wherever you're storing your certificates
-certs_path = "C:\\Users\\Cian\\Desktop\\Personal\\Betfair\\"
+certs_path = "C:\\Users\\User Name\\Certs Path\\"
 
 # Change these login details to your own
-my_username = "brickwall3031"
-my_password = "Hotspur123!"
-my_app_key = "Y7EhzfhOmfOK6RcG"
+my_username = "YOUR_USERNAME"
+my_password = "YOUR_PASSWORD"
+my_app_key = "YOUR_APP_KEY"
 
 trading = betfairlightweight.APIClient(username=my_username,
                                        password=my_password,
